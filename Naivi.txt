@@ -1,3 +1,5 @@
-Hi This is Devsecops Trainigs.
+Welcome Everyone
 
-Naivi
+Hello This is DevSecops Git Hub Actions Trainings.
+
+Naivedya Pandey
