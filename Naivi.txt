@@ -1,5 +1,8 @@
 Welcome Everyone
 
 Hello This is DevSecops Git Hub Actions Trainings.
+SAST
+DAST
+SCA
 
 Naivedya Pandey
