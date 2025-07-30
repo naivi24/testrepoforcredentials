@@ -1,8 +1,9 @@
 Welcome Everyone
 
 Hello This is DevSecops Git Hub Actions Trainings.
-SAST
-DAST
-SCA
+
+SAST - Sonar
+DAST - OWASP ZAP
+SCA - SNYK
 
 Naivedya Pandey
